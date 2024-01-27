@@ -1,0 +1,3 @@
+[submodule "Yomato"]
+	path = Yomato
+	url = https://github.com/nullHawk/Yomato

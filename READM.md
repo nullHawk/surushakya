@@ -1,1 +1,0 @@
-surushakya website in django
