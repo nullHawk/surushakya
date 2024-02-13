@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-bt-g5!$c)q75_g)3_em%wnnwp@%!p^17xod_q_1##7kf8w)e!=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -41,7 +41,6 @@ INSTALLED_APPS = [
 
 INSTALLED_APPS += [
     'home',
-    'Yomato',
     'puchi',
 ]
 
